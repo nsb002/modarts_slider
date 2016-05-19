@@ -67,7 +67,8 @@ var $slider_data = ' \
 </a>\
 <a \
     href="http://nsb002.github.io/modarts_slider/Justine.jpg" \
-    title="Dépôt final du mémoire de Justine Bourdages" \
+    title="Actualités : Dépôt final du mémoire de Justine Bourdages" \
+    data-title-href="https://www.facebook.com/artsUQAC/?fref=ts" \
     data-etu="Justine Bourdages" \
     data-sexe="F" \
     data-programme="Maîtrise en art" \
