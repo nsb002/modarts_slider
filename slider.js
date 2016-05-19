@@ -1,7 +1,7 @@
 var $slider_data = ' \
 <a \
     href="_img/accueil/01_buffleII.jpg" \
-    title="« Buffle II test »" \
+    title="« Buffle II »" \
     data-title-href="http://anusornkhabpet.com/anusornkhabpet/buffle2.html" \
     data-etu="Anusorn Khabpet" \
     data-etu-href="http://anusornkhabpet.com/" \
