@@ -66,7 +66,7 @@ var $slider_data = ' \
     data-credits-href="http://500px.com/LADG"> \
 </a>\
 <a \
-    href="http://nsb002.github.io/modarts_slider/Etudiants.jpg" \
+    href="http://nsb002.github.io/modarts_slider/Étudiants.jpg" \
     title="Actualités : Une exposition éphémère à l'UQAC" \
     data-title-href="https://www.facebook.com/artsUQAC/?fref=ts" \
     data-etu="Étudiants" \
