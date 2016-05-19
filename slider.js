@@ -1,7 +1,7 @@
 var $slider_data = ' \
 <a \
     href="_img/accueil/01_buffleII.jpg" \
-    title="« veroBuffle II »" \
+    title="« Buffle II »" \
     data-title-href="http://anusornkhabpet.com/anusornkhabpet/buffle2.html" \
     data-etu="Anusorn Khabpet" \
     data-etu-href="http://anusornkhabpet.com/" \
@@ -64,4 +64,12 @@ var $slider_data = ' \
     data-date="Hiver 2013" \
     data-credits="Photo : Laurie-Ann Dufour Guérin" \
     data-credits-href="http://500px.com/LADG"> \
+</a>\
+<a \
+    href="http://nsb002.github.io/modarts_slider/Justine.jpg" \
+    title="Dépôt final du mémoire de Justine Bourdages" \
+    data-etu="Justine Bourdages" \
+    data-sexe="F" \
+    data-programme="Maîtrise en art" \
+    data-plus="Justine Bourdages déposant la version finale de son mémoire à Mona Savard. Félicitations!" \
 </a>';
