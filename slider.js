@@ -53,7 +53,6 @@ var $slider_data = ' \
     data-plus="Direction Gilone Brun." \
     > \
 </a> \
- \
 <a \
     href="_img/accueil/05_tournage.jpg" \
     title="La Guerre Noire" \
