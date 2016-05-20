@@ -76,12 +76,12 @@ var $slider_data = ' \
     data-credits="Photo : Denis Blackburn" \
 </a>\
 <a \
-    href="http://nsb002.github.io/modarts_slider/Etudiants.jpg" \
+    href="http://nsb002.github.io/modarts_slider/Etudiants2.jpg" \
     title="La Fête des Arts à l\'UQAC" \
     data-etu=" " \
     data-sexe=" " \
     data-programme=" " \
     data-title-http://www.lapresse.ca/le-quotidien/arts/201604/26/01-4975466-une-exposition-ephemere-a-luqac.php" \
-    data-plus="<b>[ÉVÉNEMENT] 27 avril 2016</b><br>Débutant à 17h à la Galerie L\'OEuvre de l\'Autre avec le vernissage « Relecture/Interprétation » de l\’Atelier de création interdisciplinaire, dirigé par Marcel Marois." \
+    data-plus="<b>[ÉVÉNEMENT] 27 avril 2016 à 17h | Galerie L\'OEuvre de l\'Autre, UQAC</b><br>Vernissage « Relecture/Interprétation » de l\’Atelier de création interdisciplinaire, dirigé par Marcel Marois." \
     data-credits="Photo : Le Quotidien" \
 </a>';
