@@ -53,6 +53,7 @@ var $slider_data = ' \
     data-plus="Direction Gilone Brun." \
     > \
 </a> \
+ \
 <a \
     href="_img/accueil/05_tournage.jpg" \
     title="La Guerre Noire" \
@@ -63,13 +64,13 @@ var $slider_data = ' \
     data-date="Hiver 2013" \
     data-credits="Photo : Laurie-Ann Dufour Guérin" \
     data-credits-href="http://500px.com/LADG"> \
-    > \
 </a>\
 <a \
-    href="http://nsb002.github.io/modarts_slider/Etudiants.jpg" \
-    title="Actualités : Une exposition éphémère à l\'UQAC" \
+    href="http://nsb002.github.io/modarts_slider/Justine.jpg" \
+    title="Actualités : Dépôt finaLLL du mémoire de Justine Bourdages" \
     data-title-href="https://www.facebook.com/artsUQAC/?fref=ts" \
+    data-etu="Justine Bourdages" \
     data-sexe="F" \
-    data-programme="BIA" \
-    data-plus="Ce soir à la Galerie l\'OEuvre de l\'Autre" \
+    data-programme="Maîtrise en art" \
+    data-plus="Justine Bourdages déposant la version finale de son mémoire à Mona Savard. Félicitations!" \
 </a>';
