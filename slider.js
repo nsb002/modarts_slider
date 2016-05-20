@@ -66,12 +66,12 @@ var $slider_data = ' \
     data-credits-href="http://500px.com/LADG"> \
 </a>\
 <a \
-    href="http://nsb002.github.io/modarts_slider/Honoris.jpg" \
+    href="http://nsb002.github.io/modarts_slider/HC.jpg" \
     title="Doctorat Honoris Causa décerné à M. Michael Snow" \
     data-etu=" " \
     data-sexe=" " \
     data-programme=" " \
     data-title-href="https://www.facebook.com/artsUQAC/?fref=ts" \
     data-plus="<b>[ACTUALITÉS] 29 avril 2016</b><br>Doctorat Honoris Causa décerné par l\'UQAC à l\'artiste M. Michael Snow, présenté par une allocution remarquable de Michaël La Chance, soulignant le travail exceptionnel de cet artiste de renommée internationale." \
-    data-credits=" " \
+    data-credits="Photo : Denis Blackburn" \
 </a>';
