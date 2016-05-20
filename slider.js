@@ -69,7 +69,6 @@ var $slider_data = ' \
     href="http://nsb002.github.io/modarts_slider/Etudiants.jpg" \
     title="Actualités : Une exposition éphémère à l\'UQAC" \
     data-title-href="https://www.facebook.com/artsUQAC/?fref=ts" \
-    data-etu="Étudiants" \
     data-sexe="F" \
     data-programme="BIA" \
     data-plus="Ce soir à la Galerie l\'OEuvre de l\'Autre" \
