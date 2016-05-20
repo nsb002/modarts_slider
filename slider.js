@@ -67,7 +67,8 @@ var $slider_data = ' \
 </a>\
 <a \
     href="http://nsb002.github.io/modarts_slider/Honoris.jpg" \
-    title="ACTUALITÉS | Doctorat Honoris Causa décerné à M. Michael Snow" \
+    title="[Actualités] 29 avril 2016" \
+    title="Doctorat Honoris Causa décerné à M. Michael Snow" \
     data-etu=" " \
     data-sexe=" " \
     data-programme=" " \
