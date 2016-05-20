@@ -69,5 +69,5 @@ var $slider_data = ' \
     href="http://nsb002.github.io/modarts_slider/Honoris.jpg" \
     title="Actualités : Doctorat Honoris Causa décerné à M. Michael Snow" \
     data-title-href="https://www.facebook.com/artsUQAC/?fref=ts" \
-    data-plus="Doctorat Honoris Causa décerné par l\'UQAC à l\'artiste M. Michael Snow, présenté par une allocution remarquable de Michaël La Chance, soulignant le travail exceptionnel de cet artiste de renommée internationale: « Pas de catégorie, mais beaucoup de qualificatifs: figure majeure du cinéma expérimental, musicien accompli, chef de file des nouveaux médias, artiste culte canadien dans l\'art actuel. Il existe un art de Snow, comme une consécration de l\'impossibilité de reproduire ce qui est unique.»" \
+    data-plus="Doctorat Honoris Causa décerné par l\'UQAC à l\'artiste M. Michael Snow, présenté par une allocution remarquable de Michaël La Chance, soulignant le travail exceptionnel de cet artiste de renommée internationale." \
 </a>';
