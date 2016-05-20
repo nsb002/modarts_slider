@@ -76,12 +76,12 @@ var $slider_data = ' \
     data-credits="Photo : Denis Blackburn" \
 </a>\
 <a \
-    href="http://nsb002.github.io/modarts_slider/Etudiants2.jpg" \
+    href="http://nsb002.github.io/modarts_slider/Fete.jpg" \
     title="La Fête des Arts à l\'UQAC" \
     data-etu=" " \
     data-sexe=" " \
     data-programme=" " \
-    data-title-http://www.lapresse.ca/le-quotidien/arts/201604/26/01-4975466-une-exposition-ephemere-a-luqac.php" \
-    data-plus="<b>[ÉVÉNEMENT] 27 avril 2016 à 17h | Galerie L\'OEuvre de l\'Autre, UQAC</b><br>Vernissage « Relecture/Interprétation » de l\’Atelier de création interdisciplinaire, dirigé par Marcel Marois." \
-    data-credits="Photo : Le Quotidien" \
+    data-title-href="https://www.facebook.com/artsUQAC/?fref=ts" \
+    data-plus="<b>[ÉVÉNEMENT] 27 avril 2016 à 17h | Galerie L\'OEuvre de l\'Autre, UQAC</b><br>Débute à la Galerie de L’Œuvre de l’Autre avec le vernissage « Relecture/Interprétation » de l’Atelier de création interdisciplinaire, dirigé par Marcel Marois. Se poursuit à 19h00 au SCAN avec l’événement « Musique Impossible ». Et se prolonge de 20h à 24h00 au Théâtre pour une soirée DJ animée par Les Poulpes" \
+    data-credits=" " \
 </a>';
