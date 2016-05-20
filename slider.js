@@ -63,6 +63,7 @@ var $slider_data = ' \
     data-date="Hiver 2013" \
     data-credits="Photo : Laurie-Ann Dufour Guérin" \
     data-credits-href="http://500px.com/LADG"> \
+    > \
 </a>\
 <a \
     href="http://nsb002.github.io/modarts_slider/Etudiants.jpg" \
