@@ -66,7 +66,7 @@ var $slider_data = ' \
     data-credits-href="http://500px.com/LADG"> \
 </a>\
 <a \
-    href="http://nsb002.github.io/modarts_slider/HC2.jpg" \
+    href="http://nsb002.github.io/modarts_slider/HC3.jpg" \
     title="Doctorat Honoris Causa décerné à M. Michael Snow" \
     data-etu=" " \
     data-sexe=" " \
