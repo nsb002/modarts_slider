@@ -66,11 +66,8 @@ var $slider_data = ' \
     data-credits-href="http://500px.com/LADG"> \
 </a>\
 <a \
-    href="http://nsb002.github.io/modarts_slider/Etudiants.jpg" \
-    title="Actualités : Dépôt finaLLL du mémoire de Justine Bourdages" \
+    href="http://nsb002.github.io/modarts_slider/Honoris.jpg" \
+    title="Actualités : Doctorat Honoris Causa décerné à M. Michael Snow" \
     data-title-href="https://www.facebook.com/artsUQAC/?fref=ts" \
-    data-etu="Justine Bourdages" \
-    data-sexe="F" \
-    data-programme="Maîtrise en art" \
-    data-plus="Justine Bourdages déposant la version finale de son mémoire à Mona Savard. Félicitations!" \
+    data-plus="Doctorat Honoris Causa décerné par l\'UQAC à l\'artiste M. Michael Snow, présenté par une allocution remarquable de Michaël La Chance, soulignant le travail exceptionnel de cet artiste de renommée internationale: « Pas de catégorie, mais beaucoup de qualificatifs: figure majeure du cinéma expérimental, musicien accompli, chef de file des nouveaux médias, artiste culte canadien dans l\'art actuel. Il existe un art de Snow, comme une consécration de l\'impossibilité de reproduire ce qui est unique.»" \
 </a>';
