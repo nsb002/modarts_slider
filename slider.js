@@ -72,6 +72,6 @@ var $slider_data = ' \
     data-sexe=" " \
     data-programme=" " \
     data-title-href="https://www.facebook.com/artsUQAC/?fref=ts" \
-    data-plus="[Actualités] 29 avril 2016 | Doctorat Honoris Causa décerné par l\'UQAC à l\'artiste M. Michael Snow, présenté par une allocution remarquable de Michaël La Chance, soulignant le travail exceptionnel de cet artiste de renommée internationale." \
+    data-plus="[ACTUALITÉS] 29 avril 2016 | Doctorat Honoris Causa décerné par l\'UQAC à l\'artiste M. Michael Snow, présenté par une allocution remarquable de Michaël La Chance, soulignant le travail exceptionnel de cet artiste de renommée internationale." \
     data-credits=" " \
 </a>';
