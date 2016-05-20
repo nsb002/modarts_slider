@@ -72,5 +72,5 @@ var $slider_data = ' \
     data-etu="Étudiants" \
     data-sexe="F" \
     data-programme="BIA" \
-    data-plus="Ce soir à la Galerie l\’Œuvre de l\'Autre" \
+    data-plus="Ce soir à la Galerie l\'Œuvre de l\'Autre" \
 </a>';
