@@ -76,7 +76,7 @@ var $slider_data = ' \
     data-credits="Photo : Denis Blackburn" \
 </a>\
 <a \
-    href="http://nsb002.github.io/modarts_slider/Fete.jpg" \
+    href="http://nsb002.github.io/modarts_slider/Etudiants.jpg" \
     title="La Fête des Arts à l\'UQAC" \
     data-etu=" " \
     data-sexe=" " \
