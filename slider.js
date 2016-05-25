@@ -50,7 +50,7 @@ var $slider_data = ' \
     data-sexe=" " \
     data-programme=" " \
     data-title-href="https://www.facebook.com/artsUQAC/?fref=ts" \
-    data-plus="<b>[ÉVÉNEMENT] 27 avril 2016 à 17h </b><br>La Galerie de L’Œuvre de l’Autre présente le vernissage « Relecture/Interprétation » de l’Atelier de création interdisciplinaire dirigé par Marcel Marois, suivi de « Musique Impossible » au SCAN et d\'une soirée DJ animée par Les Poulpes au Petit Théâtre." \
+    data-plus="<b>[ÉVÉNEMENT] 27 avril 2016 à 17h </b><br>La Galerie de L’Œuvre de l’Autre présente le vernissage<br>« Relecture/Interprétation » de l’Atelier de création interdisciplinaire dirigé par Marcel Marois, suivi de « Musique Impossible » au SCAN et d\'une soirée DJ animée par Les Poulpes au Petit Théâtre." \
     data-credits=" " \
 </a>\
 <a \
