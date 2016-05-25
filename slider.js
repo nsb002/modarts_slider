@@ -50,17 +50,17 @@ var $slider_data = ' \
     data-sexe=" " \
     data-programme=" " \
     data-title-href="https://www.facebook.com/artsUQAC/?fref=ts" \
-    data-plus="<b>[ÉVÉNEMENT] 27 avril 2016 à 17h </b><br>17h - Galerie de L’Œuvre de l’Autre : Vernissage « Relecture/Interprétation » de l’Atelier de création interdisciplinaire, dirigé par Marcel Marois. <br>19h00 - SCAN : « Musique Impossible »<br>20h à 24h00 - Petit-Théâtre : Soirée DJ animée par Les Poulpes" \
+    data-plus="<b>[ÉVÉNEMENT] 27 avril 2016 à 17h </b><br>La Galerie de L’Œuvre de l’Autre présente le vernissage « Relecture/Interprétation » de l’Atelier de création interdisciplinaire dirigé par Marcel Marois, suivi de « Musique Impossible » au SCAN et d\'une soirée DJ animée par Les Poulpes au Petit Théâtre." \
     data-credits=" " \
 </a>\
 <a \
     href="http://nsb002.github.io/modarts_slider/Casablanca.jpg" \
     data-video-src="https://www.youtube.com/watch?v=FeUNGW6YxNc" \
-    title="L\'UQAC à Casablanca" \
+    title="Le Module des arts à Casablanca" \
     data-etu=" " \
     data-sexe=" " \
     data-programme=" " \
     data-title-href="https://www.facebook.com/artsUQAC/?fref=ts" \
-    data-plus="<b>[ACTUALITÉS] 18 avril 2016</b><br>Quatre étudiants du cours d\'art vidéo et cinéma expérimental l\'UQAC participent au Festival International d\'art Vidéo de Casablanca au Maroc" \
+    data-plus="<b>[ACTUALITÉS] 18 avril 2016</b><br>Quatre étudiants du cours d\'art vidéo et cinéma expérimental du Module des arts de l\'UQAC participent au Festival International d\'art Vidéo de Casablanca au Maroc." \
     data-credits=" " \
 </a>';
