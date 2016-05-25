@@ -31,7 +31,7 @@ var $slider_data = ' \
     data-sexe=" " \
     data-programme=" " \
     data-title-href="https://www.facebook.com/artsUQAC/?fref=ts" \
-    data-plus="<b>[ACTUALITÉS] 21 mai 2016</b><br>Le groupe de recherche interuniversitaire INSERTIO, du Module des arts est à Hong Kong pour ISEA2016. L\'équipe anime un workshop dans l\'édifice de Zaha Hadid à PolyU à Hong Kong." \
+    data-plus="<b>[ACTUALITÉS] 21 mai 2016</b><br>Le groupe de recherche interuniversitaire INSERTIO, du Module des arts est à Hong Kong pour ISEA2016. L\'équipe, composée d\'un professeur, d\'un chargé de cours et d\'étudiants, anime un workshop dans l\'édifice de Zaha Hadid à PolyU à Hong Kong et présente l\'oeuvre Tour(ist)." \
 </a>\
 <a \
     href="http://nsb002.github.io/modarts_slider/HC3.jpg" \
