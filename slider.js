@@ -32,6 +32,7 @@ var $slider_data = ' \
     data-programme=" " \
     data-title-href="https://www.facebook.com/artsUQAC/?fref=ts" \
     data-plus="<b>[ACTUALITÉS] 21 mai 2016</b><br>Le groupe de recherche interuniversitaire INSERTIO, du Module des arts est à Hong Kong pour ISEA2016. L\'équipe, composée d\'un professeur et d\'étudiants, anime un workshop dans l\'édifice de Zaha Hadid à PolyU et présente l\'oeuvre Tour(ist) au Creative Media Centre." \
+    data-credits="Photo : Insertio" \
 </a>\
 <a \
     href="http://nsb002.github.io/modarts_slider/HC3.jpg" \
@@ -42,25 +43,4 @@ var $slider_data = ' \
     data-title-href="https://www.facebook.com/artsUQAC/?fref=ts" \
     data-plus="<b>[ACTUALITÉS] 29 avril 2016</b><br>Doctorat Honoris Causa décerné par l\'UQAC à l\'artiste M. Michael Snow, présenté par une allocution remarquable de Michaël La Chance, soulignant le travail exceptionnel de cet artiste de renommée internationale." \
     data-credits="Photo : Denis Blackburn" \
-</a>\
-<a \
-    href="http://nsb002.github.io/modarts_slider/Etudiants.jpg" \
-    title="La Fête des Arts à l\'UQAC" \
-    data-etu=" " \
-    data-sexe=" " \
-    data-programme=" " \
-    data-title-href="https://www.facebook.com/artsUQAC/?fref=ts" \
-    data-plus="<b>[ÉVÉNEMENT] 27 avril 2016 à 17h </b><br>La Galerie de L’Œuvre de l’Autre présente le vernissage<br>« Relecture/Interprétation » de l’Atelier de création interdisciplinaire dirigé par Marcel Marois, suivi de « Musique Impossible » au SCAN et d\'une soirée DJ animée par Les Poulpes au Petit Théâtre." \
-    data-credits=" " \
-</a>\
-<a \
-    href="http://nsb002.github.io/modarts_slider/Casablanca.jpg" \
-    data-video-src="https://www.youtube.com/watch?v=FeUNGW6YxNc" \
-    title="Le Module des arts à Casablanca" \
-    data-etu=" " \
-    data-sexe=" " \
-    data-programme=" " \
-    data-title-href="https://www.facebook.com/artsUQAC/?fref=ts" \
-    data-plus="<b>[ACTUALITÉS] 18 avril 2016</b><br>Quatre étudiants du cours d\'art vidéo et cinéma expérimental du Module des arts de l\'UQAC participent au Festival International d\'art Vidéo de Casablanca au Maroc." \
-    data-credits=" " \
 </a>';
